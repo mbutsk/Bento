@@ -14,7 +14,7 @@
   --fg-secondary: 3vh; /* Greetings and Weather widger */
   --fg-date: 8vh; /* Date */
   --fg-list: 2vh; /* Links List */
-  --icon: 3vh; /* Icon Size */
+  --icon: 8vh; /* Icon Size */
 
   /* Fonts Color */
   --fg: #3a3a3a; /* Foreground color */
@@ -45,8 +45,8 @@
 
   /* Image background  */
   --imgcol: linear-gradient(
-    rgba(0, 0, 0, 0.85),
-    rgba(0, 0, 0, 0.85)
+    rgba(0, 0, 0, 0.7),
+    rgba(0, 0, 0, 0.7)
   ); /* Filter color */
 }
 

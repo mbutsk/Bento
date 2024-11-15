@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'mbutsk',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: false,
 	twelveHourFormat: false,
 
@@ -91,10 +91,16 @@ const CONFIG = {
 			link: 'https://reddit.com',
 		},
 		{
-			id: '4',
+			id: '3',
 			name: 'Wildberries',
 			icon: 'shopping-bag',
 			link: 'https://wildberries.ru',
+		},
+		{
+			id: '4',
+			name: 'Telegram',
+			icon: 'send',
+			link: 'https://web.telegram.com',
 		},
 	],
 
