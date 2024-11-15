@@ -17,10 +17,10 @@ const CONFIG = {
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning,',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
-	greetingNight: 'Why you isn\'t sleeping?',
+	greetingMorning: 'Good morning, $!',
+	greetingAfternoon: 'Good afternoon, $!',
+	greetingEvening: 'Good evening, $',
+	greetingNight: '$, why you isn\'t sleeping?',
 
 	// Layout
 	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
@@ -29,11 +29,11 @@ const CONFIG = {
 	weatherKey: '12b296fc76f7beb9ef632e034edf4ba4', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
-	language: 'ru', // More languages in https://openweathermap.org/current#multi
+	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '53.132069',
-	defaultLongitude: '26.016621',
+	defaultLatitude: '53.125809',
+	defaultLongitude: '25.998051',
 
 	// Autochange
 	autoChangeTheme: true,
