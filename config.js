@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: 'mbutsk',
 	imageBackground: true,
-	openInNewTab: trueop,
+	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
