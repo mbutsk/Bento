@@ -75,6 +75,7 @@ const CONFIG = {
 			icon: 'graduation-cap',
 			link: 'https://lk.ominds.ru/',
 		},
+		
 	],
 
 	secondButtonsContainer: [
@@ -100,7 +101,19 @@ const CONFIG = {
 			id: '4',
 			name: 'Telegram',
 			icon: 'send',
-			link: 'https://web.telegram.com',
+			link: 'https://web.telegram.org',
+		},
+		{
+			id: '5',
+			name: 'Music',
+			icon: 'music',
+			link: 'https://music.yandex.by',
+		},
+		{
+			id: '6',
+			name: 'Copilot',
+			icon: 'brain',
+			link: 'https://copilot.microsoft.com',
 		},
 	],
 
