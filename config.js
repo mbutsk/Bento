@@ -107,7 +107,7 @@ const CONFIG = {
 			id: '5',
 			name: 'Music',
 			icon: 'music',
-			link: 'https://music.yandex.by',
+			link: 'https://next.music.yandex.by',
 		},
 		{
 			id: '6',
