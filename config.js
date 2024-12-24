@@ -82,7 +82,7 @@ const CONFIG = {
 			link: 'https://copilot.microsoft.com',
 		},
 		{
-			id: '5',
+			id: '6',
 			name: 'INSNC',
 			icon: 'landmark',
 			link: 'https://insnc.by',
