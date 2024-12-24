@@ -75,6 +75,18 @@ const CONFIG = {
 			icon: 'graduation-cap',
 			link: 'https://lk.ominds.ru/',
 		},
+		{
+			id: '5',
+			name: 'Copilot',
+			icon: 'brain',
+			link: 'https://copilot.microsoft.com',
+		},
+		{
+			id: '5',
+			name: 'INSNC',
+			icon: 'landmark',
+			link: 'https://insnc.by',
+		},
 		
 	],
 
@@ -111,9 +123,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Copilot',
-			icon: 'brain',
-			link: 'https://copilot.microsoft.com',
+			name: 'Rutracker',
+			icon: 'ship',
+			link: 'https://rutracker.net',
 		},
 	],
 
